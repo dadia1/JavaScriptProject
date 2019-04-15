@@ -1,0 +1,62 @@
+﻿
+body, html {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ededed;
+    font-family: 'Trebuchet MS';
+}
+
+.btns button {
+    height: 65px;
+    font-size: 50px;
+    border: 1px solid #ff6a00; /* Green border */
+    margin-right: 60px;
+    cursor: pointer; /* Pointer/hand icon */
+    display: inline-flex;
+}
+
+#Ps {
+    font-size: 60px;
+    font-weight: bold;
+    margin-right: 15px;
+    margin-left: -40px;
+    margin-top: 0px;
+}
+
+#btn {
+    display: inline-flex;
+}
+
+#DivGame {
+    display: inline-block;
+    margin-left: 600px;
+    border: solid;
+    border-width: 4px;
+    border-color: lawngreen;
+    margin-top: -30px;
+}
+
+.MyDiv {
+    float: left;
+    overflow: auto;
+}
+
+#btn {
+    display: -webkit-box;
+    margin-left: 350px;
+    margin-top: 25px;
+}
+
+#minutes {
+    margin-left: 5px;
+}
+
+#seconds {
+    margin-left: 5px;
+}
+
+#timer {
+    font-size: 50px;
+    background-color: greenyellow;
+    width: 140px;
+}

@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+
+    <link href="MemoryStyle.css" rel="stylesheet" />
+
+    <title>MEMORY GAME</title>
+</head>
+
+<body>
+    <div id="timer">
+        <span id="minutes"></span>:<span id="seconds"></span>
+    </div>
+    <br />
+    <div id="DivGame" onload="funcfrontCards()">
+        <!--The html code is generated dynamically here by the java script-->
+    </div>
+
+    <div id="btn" class="btns">
+        <button id="4x4" onclick="gameA()">4x4</button>
+        <p id="Ps"><<= Choose Aboard =>></p>
+        <button id="6x6" onclick="gameB()">6x6</button>
+        &nbsp;&nbsp;&nbsp;
+        <button onclick="resetBtn()">Restart</button>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="JSproject.js"></script>
+</body>
+
+</html>

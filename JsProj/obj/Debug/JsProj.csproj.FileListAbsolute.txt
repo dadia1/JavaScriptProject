@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\c#\JavaScriptProject\JsProj\JsProj\bin\JsProj.dll.config
+C:\Users\user\Desktop\c#\JavaScriptProject\JsProj\JsProj\bin\JsProj.dll
+C:\Users\user\Desktop\c#\JavaScriptProject\JsProj\JsProj\bin\JsProj.pdb
+C:\Users\user\Desktop\c#\JavaScriptProject\JsProj\JsProj\obj\Debug\JsProj.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\JavaScriptProject\JsProj\JsProj\obj\Debug\JsProj.dll
+C:\Users\user\Desktop\c#\JavaScriptProject\JsProj\JsProj\obj\Debug\JsProj.pdb
+C:\Users\user\Desktop\c#\JavaScriptProject\JsProj\JsProj\obj\Debug\JsProj.csprojAssemblyReference.cache
